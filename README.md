@@ -1,2 +1,8 @@
 # KCCS-App
-KCCS-App © 2024 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+## 概要
+計算カードカウントシステムKCCSのアプリ版です。計算カードのタイム計測を目的としたアプリです。
+様々な計算カード専用の機能を提供するはずなので、もし良かったら使ってみてください。
+## プログラミング言語
+TurboWarp(Scratch)
+## ライセンス
+KCCS-App © 2024 by icecream2015p is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
